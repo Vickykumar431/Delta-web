@@ -1,2 +1,2 @@
 # Delta-web
-This repo for web devlopment
+This repo for web devlopment.
